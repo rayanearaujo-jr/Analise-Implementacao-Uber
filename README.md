@@ -23,7 +23,7 @@ A maior receita em horários de pico está associada a cidades de classe média 
 * **Passos de como eu fiz:**
   * Criei as colunas de métricas.
   * Filtrei as tabelas de métricas para mostrar apenas os dados das cidades **3,6 e 9** (cidades-proxy).
-* **Por que eu fiz**: O tratamento e a criação de métricas são essenciais para traduzir dados brutos em informações de negócio acionáveis.
+* **Por que eu fiz**: O tratamento e a criação de métricas são essenciais para **traduzir** dados brutos em informações de negócio acionáveis.
 
 ### 3. Visualização e Criação do Dashboard
 
@@ -36,3 +36,14 @@ A maior receita em horários de pico está associada a cidades de classe média 
    * Adicionei uma **tabela de contexto** com PIB per capita, custo e qualidade de vida.
    * **Removi as linhas de grade** da planilha para um visual profissional.
 * **Por que eu fiz:** Usar um dashboard profissional e bem formatado garante que toda a equipe e os Stakeholders **entenda** as conclusões de forma rápida e sem distrações.
+
+### 4. Recomendações Estratégicas (Insights Acionáveis)
+
+As recomendações foram baseadas nas cidades 6 e 9, as mais **relevantes** para o projeto.
+
+* **Estratégia para Passageiros (Demanda):**
+   * **Promoção de Indicação:** Criar promoções para viagens de longa distância em bairros afastados (visando padrões similares à cidade 9), usando a indicação para aumentar o volume de viagens.
+   * **Uso em horário de Pico**: Usar lembretes e cupons no app perto do horário de pico (18h-20h) para capitalizar na maior demanda observada nesse período (visando padrões similares à cidade 6).
+* **Estratégia para Motoristas (Oferta):**
+   * **Segmentação:** Lançamento de campanhas de marketing em redes sosciais que visem a faixa etária predominante (36-45 anos).
+   * **Incentivos:** Propor parcerias e apresentar os dados de receita média da plataforma a associações de taxistas locais, demonstrando como a Uber pode aumentar seus ganhos.
